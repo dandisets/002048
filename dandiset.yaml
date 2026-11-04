@@ -3,6 +3,7 @@
 # and obtained from the dandiarchive.
 '@context': 
   https://raw.githubusercontent.com/dandi/schema/master/releases/0.7.0/context.json
+about: []
 access:
 - schemaKey: AccessRequirements
   status: dandi:OpenAccess
@@ -10,7 +11,7 @@ assetsSummary:
   numberOfBytes: 0
   numberOfFiles: 0
   schemaKey: AssetsSummary
-citation: Gunalan, Kabilar (2026) NIH BRAIN CONNECTS - LINC UM1 - Pilot Brains (Version
+citation: Gunalan, Kabilar (2026) NIH BRAIN CONNECTS - LINC UM1 - Pilot data (Version
   draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/002048/draft
 contributor:
 - affiliation: []
@@ -22,15 +23,18 @@ contributor:
   schemaKey: Person
 dateCreated: '2026-11-03T17:01:05.174450+00:00'
 description: Light-sheet microscopy macaque and human data.
+ethicsApproval: []
 id: DANDI:002048/draft
 identifier: DANDI:002048
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/002048/versions/draft/assets/
-name: NIH BRAIN CONNECTS - LINC UM1 - Pilot Brains
+name: NIH BRAIN CONNECTS - LINC UM1 - Pilot data
+relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.7.0
 url: https://dandiarchive.org/dandiset/002048/draft
 version: draft
+wasGeneratedBy: []
