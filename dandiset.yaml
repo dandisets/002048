@@ -22,8 +22,9 @@ assetsSummary:
   variableMeasured: []
 citation: Gunalan, Kabilar; Gaibor, Edward; Bintsi, Kyriaki-Margarita; Mauri, Chiara;
   Özen, Emine; Ureta, Carmen Luz Leiva; Bellatif, Zayneb; Maffei, Chiara; Li, Wenze;
-  Wu, Zhuhao; Hillman, Elizabeth; Balbastre, Yaël; Yendiki, Anastasia (2026) NIH BRAIN
-  CONNECTS - LINC UM1 - Pilot data (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/002048/draft
+  Wu, Zhuhao; Hillman, Elizabeth; Balbastre, Yaël; Yendiki, Anastasia; Ghosh, Satrajit
+  (2026) NIH BRAIN CONNECTS - LINC UM1 - Pilot data (Version draft) [Data set]. DANDI
+  Archive. https://dandiarchive.org/dandiset/002048/draft
 contributor:
 - affiliation: []
   email: kabilar@datajoint.com
@@ -67,6 +68,9 @@ contributor:
   schemaKey: Person
 - includeInCitation: true
   name: Yendiki, Anastasia
+  schemaKey: Person
+- includeInCitation: true
+  name: Ghosh, Satrajit
   schemaKey: Person
 dateCreated: '2026-11-03T17:01:05.174450+00:00'
 description: Light-sheet microscopy macaque and human data.
