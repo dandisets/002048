@@ -28,6 +28,7 @@ citation: Gunalan, Kabilar; Gaibor, Edward; Bintsi, Kyriaki-Margarita; Mauri, Ch
 contributor:
 - affiliation: []
   email: kabilar@datajoint.com
+  identifier: 0000-0001-6964-4865
   includeInCitation: true
   name: Gunalan, Kabilar
   roleName:
@@ -63,10 +64,12 @@ contributor:
 - includeInCitation: true
   name: Hillman, Elizabeth
   schemaKey: Person
-- includeInCitation: true
+- identifier: 0000-0001-8758-9978
+  includeInCitation: true
   name: Balbastre, Yaël
   schemaKey: Person
-- includeInCitation: true
+- identifier: 0000-0003-1386-3828
+  includeInCitation: true
   name: Yendiki, Anastasia
   schemaKey: Person
 - includeInCitation: true
