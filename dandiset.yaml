@@ -23,7 +23,7 @@ assetsSummary:
 citation: Gunalan, Kabilar; Gaibor, Edward; Bintsi, Kyriaki-Margarita; Mauri, Chiara;
   Özen, Emine; Ureta, Carmen Luz Leiva; Bellatif, Zayneb; Maffei, Chiara; Li, Wenze;
   Wu, Zhuhao; Hillman, Elizabeth; Balbastre, Yaël; Yendiki, Anastasia; Ghosh, Satrajit
-  (2026) NIH BRAIN CONNECTS - LINC UM1 - Pilot data (Version draft) [Data set]. DANDI
+  (2026) NIH BRAIN CONNECTS - LINC UM1 - Pilot Data (Version draft) [Data set]. DANDI
   Archive. https://dandiarchive.org/dandiset/002048/draft
 contributor:
 - affiliation: []
@@ -73,7 +73,12 @@ contributor:
   name: Ghosh, Satrajit
   schemaKey: Person
 dateCreated: '2026-11-03T17:01:05.174450+00:00'
-description: Light-sheet microscopy macaque and human data.
+description: Light-sheet microscopy macaque and human data.  The Dandiset contains
+  the raw image volume and binary axon/background ground-truth label for each of the
+  12 annotated patches. Two patches were used for threshold calibration and 10 for
+  held-out evaluation. The patches come from one human sample (NEFH and NEFL immunolabeling)
+  and one macaque sample (NEFH and PV immunolabeling), and they span gray matter,
+  white matter, and white–gray transition regions.
 ethicsApproval: []
 id: DANDI:002048/draft
 identifier: DANDI:002048
@@ -81,7 +86,7 @@ license:
 - spdx:CC-BY-4.0
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/002048/versions/draft/assets/
-name: NIH BRAIN CONNECTS - LINC UM1 - Pilot data
+name: NIH BRAIN CONNECTS - LINC UM1 - Pilot Data
 relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
